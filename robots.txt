@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abryankin-spec.github.io/sitemap.xml
